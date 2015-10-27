@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Modeling the Evolution of Beliefs Using an Attentional Focus Mechanism
+date:   2015-10-23
+categories: 
+---
+Marković D, Gläscher J, Bossaerts P, O’Doherty J, Kiebel SJ. "Modeling the Evolution of Beliefs Using an Attentional Focus Mechanism." PLoS Comput Biol 11.10 (2015): e1004558.
+
+* [Link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004558)
+* [Download](http://www.ploscompbiol.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pcbi.1004558&representation=PDF)

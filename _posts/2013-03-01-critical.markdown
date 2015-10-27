@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Criticality in conserved dynamical systems
+date:   2013-03-02
+categories: 
+---
+Marković, Dimitrije, Claudius Gros, and André Schuelein. "Criticality in conserved dynamical systems: Experimental observation vs. exact properties." Chaos: an interdisciplinary journal of nonlinear science 23.1 (2013): 013106.
+
+* [Link](http://scitation.aip.org/content/aip/journal/chaos/23/1/10.1063/1.4773003)
+* [Download](http://arxiv.org/pdf/1107.0587)
