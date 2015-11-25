@@ -7,11 +7,11 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # About
-I am a PostDoc at [TU Dresden, Chair for Neuroimaging](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/ni). 
-In short, my research interests are at the intersection of cognitive neuroscience, machine learning and theoretical neuroscience. My current 
-work is focused on understanding the computational mechanisms that underly human decision making, by 
-applying concepts from information theory and probability theory to model human adaptive behavior and 
-test the experimental predictons derived from this computational frameworks.
+I am a PostDoc at [TU Dresden, Chair for Neuroimaging](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/ni).
+My research interests are at the intersection of cognitive neuroscience, machine learning and theoretical neuroscience. My current
+work is focused on understanding the computational mechanisms that underlie human decision making, by
+applying concepts from information theory and probability theory to model human adaptive behaviour and
+test the experimental predictions derived from these computational models.
 
 ## Work expirience
 
