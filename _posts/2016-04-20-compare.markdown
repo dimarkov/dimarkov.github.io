@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Comparative Analysis of Behavioral Models for Adaptive Learning in Changing Environments
-date:   2016-04-20
-categories: 
+title:  Marković D, and Kiebel SJ. *Comparative Analysis of Behavioral Models for Adaptive Learning in Changing Environments*. Frontiers in Computational Neuroscience (2016). [doi](https://doi.org/10.3389/fncom.2016.00033) [pdf](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837154/pdf/fncom-10-00033.pdf)
+categories: article
+tags: [journal, peer-reviewed]
 ---
-Marković D, and Kiebel SJ. "Comparative Analysis of Behavioral Models for Adaptive Learning in Changing Environments." Frontiers in Computational Neuroscience 10 (2016).
 
-* [Link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837154/)
-* [Download](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837154/pdf/fncom-10-00033.pdf)
+

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to edit Jekyll themplate and host your page on github"
 date:   2015-10-27
-categories: 
+categories: note
 ---
 
 # TO DO: Edit this example post from bitwise theme with my expirience about setting up a homepage using Jekyll and GitHub.

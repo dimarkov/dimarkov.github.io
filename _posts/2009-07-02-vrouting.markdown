@@ -1,10 +1,7 @@
 ---
 layout: post
-title:  Vertex routing models
+title:  Markovic, Dimitrije, and Claudius Gros. *Vertex routing models.* New Journal of Physics (2009). [doi](https://doi.org/10.1088/1367-2630/11/7/073002) [pdf](http://iopscience.iop.org/article/10.1088/1367-2630/11/7/073002/pdf)
 date:   2009-07-02
-categories: 
+categories: article
+tags: [journal, peer-reviewed]
 ---
-Markovic, Dimitrije, and Claudius Gros. "Vertex routing models." New Journal of Physics 11.7 (2009): 073002.
-
-* [Link](http://iopscience.iop.org/article/10.1088/1367-2630/11/7/073002/meta;jsessionid=F6EAE3514DC6036D88E7A54525D11E29.ip-10-40-2-121)
-* [Download](http://iopscience.iop.org/article/10.1088/1367-2630/11/7/073002/pdf)

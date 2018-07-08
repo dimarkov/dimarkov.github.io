@@ -1,10 +1,7 @@
 ---
 layout: post
-title:  Power laws and self-organized criticality in theory and nature
+title:  Marković, Dimitrije, and Claudius Gros. *Power laws and self-organized criticality in theory and nature.* Physics Reports (2014). [doi](https://doi.org/10.1016/j.physrep.2013.11.002) [pdf](http://arxiv.org/pdf/1107.0587)
 date:   2014-03-10
-categories: 
+categories: article
+tags: [journal, peer-reviewed]
 ---
-Marković, Dimitrije, and Claudius Gros. "Power laws and self-organized criticality in theory and nature." Physics Reports 536.2 (2014): 41-74.
-
-* [Link](http://www.sciencedirect.com/science/article/pii/S0370157313004298)
-* [Download](http://arxiv.org/pdf/1107.0587)

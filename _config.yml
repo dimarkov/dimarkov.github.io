@@ -1,3 +1,4 @@
+plugins: [jekyll-paginate]
 ##The website title
 name: Dimitrije Markovi&#263;
 ##Markdown processor
@@ -10,12 +11,12 @@ base_url: /
 sass:
   sass_dir: _sass
   style: :compressed
-paginate: 5
+paginate: 10
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: Scientific homepage of Dimitrije Markovic
+description: DM's academic webpage
 ##Some frequently used keywords on your website
-keywords: neuroscience, variation inference, probabilistic inference, decision making, human learning 
+keywords: non-linear dynamics, self-orginized criticality, neuronal plasticity, neuroscience, variational inference, probabilistic inference, human learning and decision-making, python
 
 ##define this for disqus comment support
 #disqus: forumname
