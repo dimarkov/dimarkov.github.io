@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Schwöbel S, Kiebel SJ, and Marković D. *Active Inference, Belief Propagation, and the Bethe Approximation*. Neural Computation (2018). [doi](https://doi.org/10.1162/neco_a_01108)
+categories: article
+tags: [journal, peer-reviewed]
+---
+
+
