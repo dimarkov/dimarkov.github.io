@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  D. Cuevas Rivera, F. Ott, D. Marković, A. Strobel, S. Kiebel, *Context-dependent risk aversion: a model-based approach*. Frontiers in Psychology (in press). [doi](https://doi.org/10.3389/fpsyg.2018.02053)
+title: Cuevas Rivera D, Ott F, Marković D, Strobel A, and Kiebel S, *Context-dependent risk aversion&#58; a model-based approach*. Frontiers in Psychology (in press). [doi](https://doi.org/10.3389/fpsyg.2018.02053)
 categories: article
 tags: [journal, peer-reviewed]
 ---
