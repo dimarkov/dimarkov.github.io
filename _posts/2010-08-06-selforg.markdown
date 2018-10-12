@@ -3,5 +3,5 @@ layout: post
 title:  Markovic, Dimitrije, and Claudius Gros. *Self-organized chaos through polyhomeostatic optimization.* Physical Review Letters (2010). [doi](https://doi.org/10.1103/PhysRevLett.105.068702) [pdf](http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.105.068702)
 date:   2010-08-06
 categories: article
-tags: [journal, peer-reviewed]
+tags: [journal]
 ---

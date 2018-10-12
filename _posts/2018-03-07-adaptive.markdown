@@ -2,7 +2,7 @@
 layout: post
 title:  Marković D, and Malešević N. *Adaptive Interface for Mapping Body Movements to Sounds*. International Conference on Computational Intelligence in Music, Sound, Art and Design (2018). [doi](https://doi.org/10.1007/978-3-319-77583-8_13)
 categories: article
-tags: [proceedings, peer-reviewed]
+tags: [proceedings]
 ---
 
 

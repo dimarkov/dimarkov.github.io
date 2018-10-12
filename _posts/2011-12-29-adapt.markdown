@@ -3,5 +3,5 @@ layout: post
 title:  Marković, Dimitrije, and Claudius Gros. Intrinsic adaptation in autonomous recurrent neural networks. Neural Computation (2011). [doi](https://doi.org/10.1162/NECO_a_00232) [pdf](http://arxiv.org/pdf/1110.3161v1)
 date:   2011-12-29
 categories: article
-tags: [journal, peer-reviewed]
+tags: [journal]
 ---

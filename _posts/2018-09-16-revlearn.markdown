@@ -2,7 +2,7 @@
 layout: post
 title:  Marković D, Reiter A, and Kiebel S. *Predicting change&#58; approximate inference under explicit representation of temporal structure in changing environments*. PLoS CB (under revision).
 categories: article
-tags: [journal, peer-reviewed]
+tags: [submitted]
 ---
 
 
