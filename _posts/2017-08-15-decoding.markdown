@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Malešević N, Marković D, Kanitz G, Controzzi M, Cipriani C,and Antfolk C *Decoding of individual finger movements from surface EMG signals using vector autoregressive hierarchical hidden Markov models (VARHHMM)*. International conference on Rehabilitation Robotics (2017). [doi](https://doi.org/10.1109/ICORR.2017.8009463)
+date: 2017-08-15
 categories: article
 tags: [proceedings]
 ---

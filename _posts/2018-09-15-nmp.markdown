@@ -3,7 +3,7 @@ layout: post
 title:  Parr T, Markovic D, Kiebel S, Friston K. *Neuronal message passing using Mean-field, Bethe, and Marginal approximations*. Scientific Reports (2019). [doi](https://doi.org/10.1038/s41598-018-38246-3) [pdf](https://www.nature.com/articles/s41598-018-38246-3.pdf)
 date: 2019-02-13
 categories: article
-tags: [submitted]
+tags: [journal]
 ---
 
 
