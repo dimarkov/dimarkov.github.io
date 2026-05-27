@@ -1,0 +1,43 @@
+# Auto-updated by .github/workflows/sync-stars.yml
+# Manually edit `name`, `description`, `repo`, and `pinned` only.
+# Fields `stars`, `language`, and `last_commit` are overwritten on every workflow run.
+
+- repo: dimarkov/bllarse
+  name: bllarse
+  description: "Fitting Bayesian last layers ('heads') with sparse priors on top of deep-network embeddings, and pruning their parameters via Bayesian model reduction."
+  stars: 1
+  language: Python
+  last_commit: "2026-05-01"
+  pinned: false
+
+- repo: dimarkov/sppcax
+  name: sppcax
+  description: "Sparse probabilistic principal component analysis in JAX. Commissioned by an industry client and released open-source."
+  stars: 2
+  language: Python
+  last_commit: "2025-04-22"
+  pinned: false
+
+- repo: dimarkov/aibandits
+  name: aibandits
+  description: "Active-inference dynamic multi-armed bandits. Companion to \"An empirical evaluation of active inference in multi-armed bandits\" (Neural Networks, 2021)."
+  stars: 20
+  language: Jupyter
+  last_commit: "2025-06-15"
+  pinned: true
+
+- repo: dimarkov/pybefit
+  name: pybefit
+  description: "Probabilistic inference for models of behaviour (Pyro / NumPyro)."
+  stars: 13
+  language: Python
+  last_commit: "2024-11-02"
+  pinned: true
+
+- repo: dimarkov/bmr4pml
+  name: bmr4pml
+  description: "Bayesian model reduction for probabilistic machine learning."
+  stars: 11
+  language: Jupyter
+  last_commit: "2024-08-19"
+  pinned: true

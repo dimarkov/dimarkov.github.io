@@ -1,0 +1,10 @@
+<nav class="nav" aria-label="primary">
+  <a href="/"
+     {% if page.url == "/" %}class="active"{% endif %}>~/</a>
+  <a href="/consulting/"
+     {% if page.url contains "consulting" %}class="active"{% endif %}>~/consulting</a>
+  <a href="/projects/"
+     {% if page.url contains "projects" %}class="active"{% endif %}>~/projects</a>
+  <a href="/publications/"
+     {% if page.url contains "publications" %}class="active"{% endif %}>~/publications</a>
+</nav>

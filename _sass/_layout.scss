@@ -1,0 +1,51 @@
+// =========================================================================
+// Layout — page container, nav, sections
+// =========================================================================
+
+.wrap {
+  max-width: $wrap;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+@media (max-width: 600px) {
+  .wrap { padding: 2rem 1rem 3rem; }
+}
+
+// --- top navigation -----------------------------------------------------
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  font-size: $fs-meta;
+}
+
+.nav a {
+  color: $muted;
+  text-decoration: none;
+  border-bottom: none;
+}
+.nav a:hover { color: $h1-color; }
+
+.nav .active {
+  color: $cmd;
+}
+.nav .active::before {
+  content: "> ";
+  color: $cmd;
+}
+
+// --- section spacing ----------------------------------------------------
+section + section {
+  margin-top: 2.5rem;
+}
+
+// --- footer -------------------------------------------------------------
+.site-footer {
+  margin-top: 5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $divider;
+  color: $muted;
+  font-size: $fs-meta;
+}

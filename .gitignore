@@ -3,3 +3,15 @@ _site
 nbproject
 *.*~
 .sass-cache
+
+# local working files — not part of the published site
+docs/
+Gemfile.lock
+vendor/
+.bundle/
+__pycache__/
+
+# CV source/build artifacts — must never be committed (contain personal email)
+*.tex
+*.docx
+*.pdf

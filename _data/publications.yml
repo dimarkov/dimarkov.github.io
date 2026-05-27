@@ -1,0 +1,282 @@
+# Source: https://scholar.google.com/citations?user=97AafiwAAAAJ
+# Snapshot date: 2026-05-27
+# Schema:
+#   year:     int
+#   title:    string
+#   authors:  string (comma-separated, in publication order)
+#   venue:    string (journal/conference name + volume if known)
+#   links:    map of {doi|arxiv|pdf|url} -> URL (omit empty entries)
+#   tags:     list of strings (free-form)
+#   featured: bool (true = render on home page)
+
+- year: 2026
+  title: "Reframing the expected free energy: Four formulations and a unification"
+  authors: "Champion T, Bowman H, Marković D, Grześ M"
+  venue: "Neural Computation"
+  tags: [active-inference, expected-free-energy]
+  featured: false
+
+- year: 2025
+  title: "From pixels to planning: Scale-free active inference"
+  authors: "Friston K, Heins C, Verbelen T, Da Costa L, Salvatori T, Marković D, et al."
+  venue: "Frontiers in Network Physiology 5"
+  tags: [active-inference, planning]
+  featured: false
+
+- year: 2025
+  title: "AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models"
+  authors: "Heins C, Van de Maele T, Tschantz A, Linander H, Marković D, Salvatori T, et al."
+  venue: "arXiv:2505.24784"
+  links:
+    arxiv: "https://arxiv.org/abs/2505.24784"
+  tags: [active-inference, object-centric, world-models]
+  featured: false
+
+- year: 2025
+  title: "The CRISTAL Method: Fast, reliable analytical problem-solving with pre-synthesized grounded world models"
+  authors: "Kaufmann R, Neubürger F, Walters M, Kopinski T, Marković D"
+  venue: "Proceedings of Machine Learning Research"
+  tags: [reasoning, world-models]
+  featured: false
+
+- year: 2024
+  title: "Supervised structure learning"
+  authors: "Friston KJ, Da Costa L, Tschantz A, Kiefer A, Salvatori T, Neacsu V, et al."
+  venue: "Biological Psychology 193"
+  tags: [structure-learning, bayesian]
+  featured: false
+
+- year: 2024
+  title: "Modelling agency perception in a multi-agent context in depression using active inference"
+  authors: "Pitliya RJ, Marković D, Folesani F, Murri MB, de Obeso SC, Murphy RA"
+  venue: "International Workshop on Active Inference (Springer)"
+  tags: [active-inference, depression, multi-agent]
+  featured: true
+
+- year: 2024
+  title: "Gradient-free variational learning with conditional mixture networks"
+  authors: "Heins C, Wu H, Marković D, Tschantz A, Beck J, Buckley CL"
+  venue: "arXiv:2408.16429"
+  links:
+    arxiv: "https://arxiv.org/abs/2408.16429"
+  tags: [variational-inference, machine-learning]
+  featured: true
+
+- year: 2024
+  title: "Joint modeling of choices and reaction times based on Bayesian contextual behavioral control"
+  authors: "Schwöbel S, Marković D, Smolka MN, Kiebel SJ"
+  venue: "PLOS Computational Biology 20(7)"
+  tags: [bayesian, decision-making]
+  featured: false
+
+- year: 2024
+  title: "Bayesian sparsification for deep neural networks with Bayesian model reduction"
+  authors: "Marković D, Friston KJ, Kiebel SJ"
+  venue: "IEEE Access 12"
+  tags: [bayesian, deep-learning, model-reduction]
+  featured: true
+
+- year: 2023
+  title: "Shorter planning depth and higher response noise during sequential decision-making in old age"
+  authors: "Steffen J, Marković D, Glöckner F, Neukam PT, Kiebel SJ, Li SC, et al."
+  venue: "Scientific Reports 13(1)"
+  tags: [decision-making, aging]
+  featured: false
+
+- year: 2022
+  title: "Revealing human sensitivity to a latent temporal structure of changes"
+  authors: "Marković D, Reiter AMF, Kiebel SJ"
+  venue: "Frontiers in Behavioral Neuroscience 16"
+  tags: [temporal-structure, inference]
+  featured: true
+
+- year: 2021
+  title: "An empirical evaluation of active inference in multi-armed bandits"
+  authors: "Marković D, Stojić H, Schwöbel S, Kiebel SJ"
+  venue: "Neural Networks 144"
+  tags: [active-inference, bandits]
+  featured: true
+
+- year: 2021
+  title: "Probabilistic perspectives on brain (dys)function"
+  authors: "Parr T, Marković D, Ramstead MJD, Smith R, Hesp C, Friston K"
+  venue: "Frontiers in Artificial Intelligence 4"
+  tags: [bayesian, neuroscience]
+  featured: false
+
+- year: 2021
+  title: "Meta-control of the exploration–exploitation dilemma emerges from probabilistic inference over a hierarchy of time scales"
+  authors: "Marković D, Goschke T, Kiebel SJ"
+  venue: "Cognitive, Affective, & Behavioral Neuroscience 21(3)"
+  tags: [exploration, cognitive-control]
+  featured: false
+
+- year: 2021
+  title: "Neuronal sequence models for Bayesian online inference"
+  authors: "Frölich S, Marković D, Kiebel SJ"
+  venue: "Frontiers in Artificial Intelligence 4"
+  tags: [bayesian, online-inference]
+  featured: false
+
+- year: 2021
+  title: "Predicting the cumulative medical load of COVID-19 outbreaks after the peak in daily fatalities"
+  authors: "Gros C, Valenti R, Schneider L, Gutsche B, Marković D"
+  venue: "PLOS ONE 16(4)"
+  tags: [epidemiology, covid-19]
+  featured: false
+
+- year: 2021
+  title: "Balancing control: a Bayesian interpretation of habitual and goal-directed behavior"
+  authors: "Schwöbel S, Marković D, Smolka MN, Kiebel SJ"
+  venue: "Journal of Mathematical Psychology 100"
+  tags: [bayesian, decision-making]
+  featured: false
+
+- year: 2020
+  title: "Dynamic integration of forward planning and heuristic preferences during multiple goal pursuit"
+  authors: "Ott F, Marković D, Strobel A, Kiebel SJ"
+  venue: "PLoS Computational Biology 16(2)"
+  tags: [planning, decision-making]
+  featured: false
+
+- year: 2019
+  title: "Neuronal message passing using mean-field, Bethe, and marginal approximations"
+  authors: "Parr T, Marković D, Kiebel SJ, Friston KJ"
+  venue: "Scientific Reports 9(1)"
+  tags: [message-passing, variational-inference]
+  featured: false
+
+- year: 2019
+  title: "Predicting change: approximate inference under explicit representation of temporal structure in changing environments"
+  authors: "Marković D, Reiter AMF, Kiebel SJ"
+  venue: "PLoS Computational Biology 15(1)"
+  tags: [temporal-structure, inference]
+  featured: false
+
+- year: 2019
+  title: "An active inference perspective on habit learning"
+  authors: "Marković D, Kiebel SJ"
+  venue: "Conference on Cognitive Computational Neuroscience"
+  tags: [active-inference, habit-learning]
+  featured: false
+
+- year: 2018
+  title: "Deterministic response strategies in a trial-and-error learning task"
+  authors: "Mohr H, Zwosta K, Marković D, Bitzer S, Wolfensteller U, Ruge H"
+  venue: "PLoS Computational Biology 14(11)"
+  tags: [decision-making, learning]
+  featured: false
+
+- year: 2018
+  title: "Context-dependent risk aversion: a model-based approach"
+  authors: "Cuevas Rivera D, Ott F, Marković D, Strobel A, Kiebel SJ"
+  venue: "Frontiers in Psychology 9"
+  tags: [decision-making, risk]
+  featured: false
+
+- year: 2018
+  title: "Active inference, belief propagation, and the Bethe approximation"
+  authors: "Schwöbel S, Kiebel SJ, Marković D"
+  venue: "Neural Computation 30(9)"
+  tags: [active-inference, variational-inference]
+  featured: false
+
+- year: 2018
+  title: "Adaptive interface for mapping body movements to sounds"
+  authors: "Marković D, Malešević N"
+  venue: "International Conference on Computational Intelligence in Music, Sound, Art and Design"
+  tags: [interface, sound]
+  featured: false
+
+- year: 2018
+  title: "Vector autoregressive hierarchical hidden Markov models for extracting finger movements using multichannel surface EMG signals"
+  authors: "Malešević N, Marković D, Kanitz G, Controzzi M, Cipriani C, Antfolk C"
+  venue: "Complexity 2018(1)"
+  tags: [emg, hidden-markov-models]
+  featured: false
+
+- year: 2017
+  title: "Decoding of individual finger movements from surface EMG signals using vector autoregressive hierarchical hidden Markov models"
+  authors: "Malešević N, Marković D, Kanitz G, Controzzi M, Cipriani C, Antfolk C"
+  venue: "International Conference on Rehabilitation Robotics (ICORR)"
+  tags: [emg, hidden-markov-models]
+  featured: false
+
+- year: 2016
+  title: "Body movement to sound interface with vector autoregressive hierarchical hidden Markov models"
+  authors: "Marković D, Valčić B, Malešević N"
+  venue: "arXiv:1610.08450"
+  links:
+    arxiv: "https://arxiv.org/abs/1610.08450"
+  tags: [interface, sound]
+  featured: false
+
+- year: 2016
+  title: "Comparative analysis of behavioral models for adaptive learning in changing environments"
+  authors: "Marković D, Kiebel SJ"
+  venue: "Frontiers in Computational Neuroscience 10"
+  tags: [learning, behavioral-modeling]
+  featured: false
+
+- year: 2016
+  title: "Inferring neuronal dynamics from calcium imaging data using biophysical models and Bayesian inference"
+  authors: "Rahmati V, Kirmse K, Marković D, Holthoff K, Kiebel SJ"
+  venue: "PLoS Computational Biology 12(2)"
+  tags: [bayesian, calcium-imaging]
+  featured: false
+
+- year: 2015
+  title: "Modeling the evolution of beliefs using an attentional focus mechanism"
+  authors: "Marković D, Gläscher J, Bossaerts P, O'Doherty J, Kiebel SJ"
+  venue: "PLoS Computational Biology 11(10)"
+  tags: [bayesian, attention]
+  featured: false
+
+- year: 2014
+  title: "Power laws and self-organized criticality in theory and nature"
+  authors: "Marković D, Gros C"
+  venue: "Physics Reports 536(2)"
+  tags: [self-organized-criticality, power-laws]
+  featured: false
+
+- year: 2013
+  title: "Criticality in conserved dynamical systems: Experimental observation vs. exact properties"
+  authors: "Marković D, Gros C, Schuelein A"
+  venue: "Chaos 23(1)"
+  tags: [criticality, dynamical-systems]
+  featured: false
+
+- year: 2013
+  title: "Observing scale-invariance in non-critical dynamical systems"
+  authors: "Gros C, Marković D"
+  venue: "AIP Conference Proceedings 1510(1)"
+  tags: [dynamical-systems]
+  featured: false
+
+- year: 2012
+  title: "Intrinsic adaptation in autonomous recurrent neural networks"
+  authors: "Marković D, Gros C"
+  venue: "Neural Computation 24(2)"
+  tags: [neural-networks, adaptation]
+  featured: false
+
+- year: 2012
+  title: "Neuropsychological constraints to human data production on a global scale"
+  authors: "Gros C, Kaczor G, Marković D"
+  venue: "European Physical Journal B 85"
+  tags: [complex-systems]
+  featured: false
+
+- year: 2010
+  title: "Self-organized chaos through polyhomeostatic optimization"
+  authors: "Marković D, Gros C"
+  venue: "Physical Review Letters 105(6)"
+  tags: [self-organization, chaos]
+  featured: false
+
+- year: 2009
+  title: "Vertex routing models"
+  authors: "Marković D, Gros C"
+  venue: "New Journal of Physics 11(7)"
+  tags: [complex-networks]
+  featured: false

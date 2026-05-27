@@ -1,36 +1,35 @@
-plugins: [jekyll-paginate]
-##The website title
-name: Dimitrije Markovi&#263;
-##Markdown processor
-markdown: kramdown
-##syntax highlighter
-highlighter: rouge
+title: "Dimitrije Marković"
+tagline: "independent researcher · ML/AI consultant"
+description: "Independent ML/AI researcher and consultant. Active inference, probabilistic programming, Bayesian methods, JAX."
+url: "https://di.markov.icu"
+keywords: "active inference, probabilistic programming, bayesian machine learning, JAX, ML consulting"
 
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: /
+author:
+  name: "Dimitrije Marković"
+
+links:
+  github: "dimarkov"
+  scholar: "https://scholar.google.com/citations?user=97AafiwAAAAJ"
+  slides: "https://slides.com/dimarkov"
+  orcid: "https://orcid.org/0000-0002-4185-696X"
+
+plugins:
+  - jekyll-sitemap
+
+markdown: kramdown
 sass:
   sass_dir: _sass
-  style: :compressed
-paginate: 10
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: DM's academic webpage
-##Some frequently used keywords on your website
-keywords: non-linear dynamics, self-orginized criticality, neuronal plasticity, neuroscience, variational inference, probabilistic inference, human learning and decision-making, python
+  style: compressed
 
-##define this for disqus comment support
-#disqus: forumname
-
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
-
-##Some commonly used links
-links:
-  email: dimitrije.markovic@tu-dresden.de
-  github: dimarkov
-
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: thumbnail.jpg
-##comment this if you want full width posts with no sidebar
-sidebar: on
+# explicitly exclude local-only working files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs
+  - README.md
+  - LICENSE
+  - .github
+  - "*.tex"
+  - "*.docx"
+  - "*.pdf"

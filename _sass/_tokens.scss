@@ -1,0 +1,37 @@
+// =========================================================================
+// Theme tokens — merged theme: prompt-structure + Gruvbox palette
+// =========================================================================
+
+// --- Color palette (Gruvbox-inspired) -----------------------------------
+$bg:         #1d2021;   // hard background
+$bg-soft:    #282828;   // panels, hover backgrounds
+$fg:         #ebdbb2;   // body text (warm cream)
+$muted:      #a89984;   // metadata, secondary text
+$dim:        #504945;   // borders
+$divider:    #3c3836;   // hairlines between items
+
+// --- Semantic accent colors --------------------------------------------
+$prompt:     #83a598;   // user@host part of $ prompts (blue)
+$cmd:        #b8bb26;   // command text (green) — used in .prompt::before
+$h1-color:   #fabd2f;   // page title (yellow)
+$h2-color:   #d3869b;   // section headings (light purple)
+$link:       #83a598;   // links match prompt color
+$link-hover: #fabd2f;   // hover = yellow
+$accent-red: #fb4934;   // sparing — "new" markers, errors
+
+// --- Typography ---------------------------------------------------------
+$font-mono:  'JetBrains Mono', ui-monospace, 'SF Mono', Menlo,
+             'Consolas', monospace;
+
+$fs-base:    14.5px;
+$fs-h1:      1.5rem;
+$fs-h2:      1rem;
+$fs-h3:      0.95rem;
+$fs-meta:    0.85rem;
+$lh-body:    1.65;
+
+// --- Layout -------------------------------------------------------------
+$measure:    78ch;
+$wrap:       820px;
+$gap:        1.2rem;
+$radius:     0;        // sharp corners — terminals don't have rounded edges

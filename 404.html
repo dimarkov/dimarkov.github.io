@@ -1,10 +1,15 @@
 ---
 layout: default
-title: Error 404
+title: 404
+permalink: /404.html
 ---
-<div id="home" class="grid post">
-<div class="unit whole">
-	<h1>Sorry. Looks like the bit you requested does not exist.</h1>
-	<p style="text-align:center"><a href="/">Go back</a></p>
-</div>
-</div>
+
+<p class="prompt">cd {{ page.url | escape }}</p>
+
+<h1>404 — no such file or directory<span class="cursor"></span></h1>
+
+<p>The page you were looking for doesn't exist.</p>
+
+<p class="prompt">cd ..</p>
+
+<p><a href="/">← back to home</a></p>

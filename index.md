@@ -1,16 +1,44 @@
 ---
-layout: home
+layout: default
 title: Home
-lastmod: 2018-07-07
+description: "Independent ML/AI researcher and consultant. Active inference, probabilistic programming, Bayesian methods, JAX."
 ---
-Postdoc at TU Dresden, [Chair of Neuroimaging](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/ni).
 
-As a trained theoretical physicist, I have a deep interest in computational principles that offer unifying description of various cognitive phenomena, neuronal dynamics, and human and animal behavior.
+<p class="prompt">whoami</p>
+<div class="hero">
+  <div class="name-row">
+    <h1>Dimitrije Marković<span class="cursor"></span></h1>
+    <img src="/img/portrait-animated.svg" alt="Dimitrije Marković" class="hero-portrait">
+  </div>
+  <p class="pub-meta">independent researcher · ML/AI consultant · Dresden, DE</p>
+</div>
 
-I currently focus on investigating computational mechanisms that underlie learning, inference and planning in the presence of various sources of uncertainty. I describe these processes in the context of Bayesian inference, planning as inference, and active inference.
+<p class="prompt">cat about.md</p>
 
-Recently, I started investigating how the representation of time (or event durations) is used for planning and decision making in dynamic environments. An interesting question here is how temporal representations modulate the decision-making process and under which conditions this interaction might lead to ‘suboptimal’ decisions. 
+Computational researcher and ML consultant. PhD in theoretical physics
+(Goethe Frankfurt, 2013), more than a decade as a postdoc at TU Dresden
+(2014–2025), then several years consulting on probabilistic and
+active-inference-based AI.
 
-On the long run, I am interested in connecting the normative models of human behavior to neuronal level and self-organizing plasticity mechanisms that shape neuronal dynamics.
+Industry work spans **financial modelling, remote sensing, precision
+agriculture, and biomedical signals** — data pipelines, probabilistic
+models, and proof-of-concept demos that have supported client fund-raising.
 
-I am currently employed in the SFB 940, where I work on models of cognitive control and goal-directed actions, and apply these models to understand human behavior in specific behavioral experiments. Here is an up-to-date [curriculum vitae](/files/resumeDM.pdf).
+<p class="prompt">cat now.md</p>
+
+2026 · starting a company with co-founders; currently consulting for
+an early-stage startup. Open-source work on probabilistic programming in JAX
+([bllarse](https://github.com/dimarkov/bllarse),
+[sppcax](https://github.com/dimarkov/sppcax),
+[aibandits](https://github.com/dimarkov/aibandits),
+[pybefit](https://github.com/dimarkov/pybefit),
+[bmr4pml](https://github.com/dimarkov/bmr4pml)).
+
+Open to further engagements if the work is interesting.
+
+<p class="prompt">contact</p>
+
+<a href="https://github.com/{{ site.links.github }}" rel="noopener">github/{{ site.links.github }}</a> ·
+<a href="{{ site.links.scholar }}" rel="noopener">scholar</a> ·
+<a href="{{ site.links.slides }}" rel="noopener">slides</a> ·
+<a href="https://www.youtube.com/watch?v=a089q9RaI14" rel="noopener">active inference institute (talk)</a>
