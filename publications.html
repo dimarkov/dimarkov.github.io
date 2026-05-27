@@ -1,0 +1,24 @@
+---
+layout: pubs
+title: Publications
+sitemap:
+priority: 1.0
+changefreq: weekly
+lastmod: 2018-07-05T16:57:30+05:30
+---
+{% for post in site.categories.article %}
+  {{ post.title | markdownify }}
+  <div class="meta-info">
+	{% if post.tags and post.tags.size > 0 %}
+		<div class="tags">
+			Tagged:
+			{% for tag in post.tags %}
+			<span><i class="fa fa-tag"></i>{{ tag }}</span>
+			{% endfor %}
+		</div>
+	{% endif %}
+  </div>
+  <div class="postContent">
+    {{ post.content }}
+  </div>
+{% endfor %}

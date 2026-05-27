@@ -1,0 +1,36 @@
+plugins: [jekyll-paginate]
+##The website title
+name: Dimitrije Markovi&#263;
+##Markdown processor
+markdown: kramdown
+##syntax highlighter
+highlighter: rouge
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: /
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 10
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: DM's academic webpage
+##Some frequently used keywords on your website
+keywords: non-linear dynamics, self-orginized criticality, neuronal plasticity, neuroscience, variational inference, probabilistic inference, human learning and decision-making, python
+
+##define this for disqus comment support
+#disqus: forumname
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  email: dimitrije.markovic@tu-dresden.de
+  github: dimarkov
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: thumbnail.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
