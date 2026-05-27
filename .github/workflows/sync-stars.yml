@@ -17,6 +17,8 @@ jobs:
 
       - name: install uv
         uses: astral-sh/setup-uv@v8.1.0   # pinned: v8+ ships immutable tags only
+        with:
+          enable-cache: false             # deps are inline (PEP 723), nothing to cache
 
       - name: refresh star counts
         env:
