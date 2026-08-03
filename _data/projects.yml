@@ -4,7 +4,7 @@
     deep-network embeddings, and pruning their parameters via Bayesian model reduction.
   stars: 1
   language: Python
-  last_commit: '2026-07-07'
+  last_commit: '2026-07-30'
   pinned: false
 - repo: dimarkov/sppcax
   name: sppcax
